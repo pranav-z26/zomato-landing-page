@@ -1,3 +1,3 @@
 # zomato-landing-page
 
-<img src="zomato_view.png"/>
+<img src="assets/zomato_view1.png"/><img src="assets/zomato_view2.png"/><img src="assets/zomato_view3.png"/>
